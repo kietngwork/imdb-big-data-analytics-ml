@@ -52,7 +52,7 @@ Collectively, these findings highlight the importance of building a predictive m
 
 **Predictive Model**
 
-Movie success is defined using a **Weighted Score**, a movie is labeled as successful (success = 1) if this score meets or exceeds a predefined threshold, calculated as:
+Movie success is defined using a **Weighted Score**, a movie is labeled as successful (**success = 1**) if this score meets or exceeds a predefined threshold, calculated as:
 - **average_rating × log10(num_votes)**
 
 By framing success as a binary outcome, the model supports early-stage decision making where stakeholders must quickly filter high-potential projects from lower-risk candidates
