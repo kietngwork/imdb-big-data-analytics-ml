@@ -46,7 +46,7 @@ A detailed description of the data sources, tables, and key fields is provided [
 - Director track record is a strong signal: Directors with **historical success rates above 70–80%** consistently produce films with **average ratings above 8.5–9.0**, while directors below 30% historical success average closer to 6.0–6.5 in ratings.
 - Franchise advantage is substantial: Franchise films achieve a **48%** success rate, compared to just 19% for original films, more than a 2× increase—underscoring the strong commercial value of established intellectual property.
 
-<img width="6000" height="2787" alt="imdb_findings" src="https://github.com/user-attachments/assets/f8c8c535-e30c-4844-aa5b-b852ec672583" />
+<img width="6000" height="3375" alt="imdb_findings" src="https://github.com/user-attachments/assets/6c5dbbf6-719a-455d-9cd5-6ebaeec8df65" />
 
 Collectively, these findings highlight the importance of building a predictive model capable of estimating the success rate of upcoming films, enabling investors to make informed, data-driven decisions and manage financial risk before committing capital.
 
