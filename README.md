@@ -1,6 +1,6 @@
 ### 🍿 BigQuery-Based IMDb Data Pipeline for Analytics and ML
 
-<img width="575" height="290" alt="image" src="https://github.com/user-attachments/assets/94acaa29-96da-4856-9f47-6d96545b468a" />
+<img width="6000" height="2357" alt="image" src="https://github.com/user-attachments/assets/82943d0e-47fe-4871-b32d-c9b622eb8e79" />
 
 ## Project Background
 
