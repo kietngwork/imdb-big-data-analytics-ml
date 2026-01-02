@@ -62,9 +62,8 @@ When the decision threshold is set at 0.65, the model shows that it can be trust
 
 High precision and recall across both classes indicate that the model makes confident and consistent decisions, exactly what’s needed for reliable go / no-go investment screening.
 
-![highlight (1)](https://github.com/user-attachments/assets/2a3e500f-fb36-41ca-a029-f65c8b2824b0)
+![model](https://github.com/user-attachments/assets/a475b641-a851-456b-a267-05c689648c75)
 
-*Illustration of the investment prediction interface (for demonstration purposes).*
 
 
 
