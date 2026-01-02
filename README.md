@@ -54,8 +54,20 @@ Collectively, these findings highlight the importance of building a predictive m
 
 Movie success is defined using a **Weighted Score**, a movie is labeled as successful (success = 1) if this score meets or exceeds a predefined threshold, calculated as:
 - **average_rating × log10(num_votes)**
-Thresholds can be adjusted (e.g., 20, 25, or 30) to control the trade-off between false positives and false negatives, allowing the model to adapt to different strategic goals.
+
+Thresholds can be adjusted to control the trade-off between false positives and false negatives, allowing the model to adapt to different strategic goals.
 <img width="562" height="432" alt="image" src="https://github.com/user-attachments/assets/34606395-e2de-4d98-ae89-c7cd5867f3c4" />
+
+**XGBoost model** is used to translate complex movie attributes into a clear **go / no-go investment signal**.
+
+By framing success as a binary outcome, the model supports early-stage decision making where stakeholders must quickly filter high-potential projects from lower-risk candidates
+
+Trained on engineered features capturing ratings, audience reach, and production characteristics, the model achieved approximately 93% accuracy with a ROC-AUC close to 0.99, indicating a strong ability to distinguish successful films from unsuccessful ones across different thresholds.
+
+<img width="473" height="176" alt="image" src="https://github.com/user-attachments/assets/624e247a-9e0d-4db8-abc0-7d49c88e4b0e" />
+
+
+
 
 
 
