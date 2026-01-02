@@ -69,6 +69,9 @@ Trained on engineered features capturing ratings, audience reach, and production
 
 
 
+![imdb-model](https://github.com/user-attachments/assets/4d192a82-cd8a-4abe-a521-13d9a4a0f5fd)
+
+
 
 
 
