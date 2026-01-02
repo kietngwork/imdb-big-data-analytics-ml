@@ -1,0 +1,34 @@
+Dataset: disney_features_full
+Source: IMDb Public Dataset via BigQuery
+Size: ~X,XXX movies (from 2000 onwards, with ≥ 1,000 votes)
+Use Case: Supervised binary classification – predict movie "success"
+
+Target Variable:
+success (integer, label: 1 if the movie is deemed successful (average_rating * log10(votes) ≥ 25), else 0)
+
+Features:
+
+1. start_year: Release year
+2. runtime_minutes: Movie duration in minutes
+3. is_adult: 1 if adult content, else 0
+4. average_rating: IMDb average rating (1–10)
+5. log_votes: Log10 of number of votes (proxy for popularity)
+6. genre_count: Number of genres listed
+7. sequel_flag: 1 if title ends with a number (e.g., "Frozen 2")
+8. franchise_flag: 1 if part of major franchise (e.g., Marvel, Pixar)
+9. release_decade: Decade (e.g., "2010s")
+10. release_season: Approx. season (Winter, Spring, Summer, Fall)
+11. release_window: Blockbuster, AwardSeason, or OffSeason
+12. avg_director_success_rate: Avg success rate of associated directors
+
+Genre (one-hot encoded):
+13. is_action
+14. is_comedy
+15. is_drama
+16. is_romance
+17. is_thriller
+18. is_scifi
+19. is_animation
+20. is_horror
+
+Note: Excludes raw columns like tconst, primary_title, and genres
