@@ -58,6 +58,9 @@ Movie success is defined using a **Weighted Score**, a movie is labeled as succe
 By framing success as a binary outcome, the model supports early-stage decision making where stakeholders must quickly filter high-potential projects from lower-risk candidates
 Thresholds can be adjusted to control the trade-off between false positives and false negatives, allowing the model to adapt to different strategic goals.
 
+<img width="1269" height="69" alt="image" src="https://github.com/user-attachments/assets/0cbc88d5-6954-4aea-a59d-b9f2a0a2b32f" />
+<img width="1277" height="60" alt="image" src="https://github.com/user-attachments/assets/1894754a-3a04-47dd-9967-8854ede733b6" />
+
 **XGBoost model** is used to translate complex movie attributes into a clear **go / no-go investment signal**.
 
 When the decision threshold is set at 0.65, the model shows that it can be trusted in practice. It correctly classifies 94% of movies, while maintaining a weighted F1-score of 0.94, meaning it rarely misses strong candidates or approves weak ones.
