@@ -50,3 +50,5 @@ A detailed description of the data sources, tables, and key fields is provided [
 
 Collectively, these findings highlight the importance of building a predictive model capable of estimating the success rate of upcoming films, enabling investors to make informed, data-driven decisions and manage financial risk before committing capital.
 
+
+
