@@ -27,7 +27,9 @@ IMDb's database structure as seen below consists of 5 tables: name_basics, title
 
 <img width="6000" height="3375" alt="schema" src="https://github.com/user-attachments/assets/86f54802-9e97-4923-8521-0aae6c881b72" />
 
-Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The SQL queries utilized to load the data and perform initial quality checks can be found [here](https://github.com/kietngwork/imdb-big-data-analytics-ml/blob/main/SQL%20queries/data_loading_and_preprocessing.sql)
+Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The SQL queries utilized to load the data and perform initial quality checks can be found [here](https://github.com/kietngwork/imdb-big-data-analytics-ml/blob/main/SQL%20queries/data_loading_and_preprocessing.sql). 
+
+A detailed description of the data sources, tables, and key fields is provided [here](https://github.com/kietngwork/imdb-big-data-analytics-ml/blob/main/data/data_description.txt).
 
 ---
 ## Executive Summary
