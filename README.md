@@ -70,6 +70,8 @@ High precision and recall across both classes indicate that the model makes conf
 
 ![imdb-model](https://github.com/user-attachments/assets/4d192a82-cd8a-4abe-a521-13d9a4a0f5fd)
 
+*Illustration of the investment prediction interface (for demonstration purposes).*
+
 
 
 
