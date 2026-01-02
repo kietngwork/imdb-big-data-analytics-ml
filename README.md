@@ -1,5 +1,7 @@
 ### 🍿 BigQuery-Based IMDb Data Pipeline for Analytics and ML
 
+<img width="575" height="290" alt="image" src="https://github.com/user-attachments/assets/94acaa29-96da-4856-9f47-6d96545b468a" />
+
 ## Project Background
 
 In today’s streaming-driven entertainment industry, studios and platforms must make high-stakes content investment decisions amid rising production costs and intense competition.
