@@ -56,6 +56,7 @@ Movie success is defined using a **Weighted Score**, a movie is labeled as succe
 - **average_rating × log10(num_votes)**
 
 Thresholds can be adjusted to control the trade-off between false positives and false negatives, allowing the model to adapt to different strategic goals.
+
 <img width="562" height="432" alt="image" src="https://github.com/user-attachments/assets/34606395-e2de-4d98-ae89-c7cd5867f3c4" />
 
 **XGBoost model** is used to translate complex movie attributes into a clear **go / no-go investment signal**.
