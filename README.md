@@ -58,9 +58,7 @@ Thresholds can be adjusted to control the trade-off between false positives and 
 
 When the decision threshold is set at 0.65, the model shows that it can be trusted in practice. It correctly classifies 94% of movies, while maintaining a weighted F1-score of 0.94, meaning it rarely misses strong candidates or approves weak ones.
 
-<img width="562" height="432" alt="image" src="https://github.com/user-attachments/assets/34606395-e2de-4d98-ae89-c7cd5867f3c4" />
-
-<img width="473" height="176" alt="image" src="https://github.com/user-attachments/assets/624e247a-9e0d-4db8-abc0-7d49c88e4b0e" />
+<img width="6000" height="3375" alt="port-highlight (1)" src="https://github.com/user-attachments/assets/e2ef1037-7b23-4cc7-9d2d-28b37e80adac" />
 
 High precision and recall across both classes indicate that the model makes confident and consistent decisions, exactly what’s needed for reliable go / no-go investment screening.
 
