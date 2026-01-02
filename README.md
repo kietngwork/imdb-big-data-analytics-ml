@@ -66,7 +66,7 @@ When the decision threshold is set at 0.65, the model shows that it can be trust
 
 <img width="473" height="176" alt="image" src="https://github.com/user-attachments/assets/624e247a-9e0d-4db8-abc0-7d49c88e4b0e" />
 
-High precision and recall across both classes indicate that the model makes confident, consistent decisions—exactly what’s needed for reliable go / no-go investment screening.
+High precision and recall across both classes indicate that the model makes confident and consistent decisions, exactly what’s needed for reliable go / no-go investment screening.
 
 ![imdb-model](https://github.com/user-attachments/assets/4d192a82-cd8a-4abe-a521-13d9a4a0f5fd)
 
