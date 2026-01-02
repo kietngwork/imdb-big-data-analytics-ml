@@ -50,5 +50,14 @@ A detailed description of the data sources, tables, and key fields is provided [
 
 Collectively, these findings highlight the importance of building a predictive model capable of estimating the success rate of upcoming films, enabling investors to make informed, data-driven decisions and manage financial risk before committing capital.
 
+**Predictive Model**
+
+Movie success is defined using a **Weighted Score**, a movie is labeled as successful (success = 1) if this score meets or exceeds a predefined threshold, calculated as:
+- **average_rating × log10(num_votes)**
+Thresholds can be adjusted (e.g., 20, 25, or 30) to control the trade-off between false positives and false negatives, allowing the model to adapt to different strategic goals.
+<img width="562" height="432" alt="image" src="https://github.com/user-attachments/assets/34606395-e2de-4d98-ae89-c7cd5867f3c4" />
+
+
+
 
 
