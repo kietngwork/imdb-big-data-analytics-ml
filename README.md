@@ -12,5 +12,7 @@ Insights and recommendations are provided across the following key areas:
 - Data-driven guidance for content investment and greenlight decisions
 
 The SQL queries utilized to load the data and perform initial quality checks can be found [here](https://github.com/kietngwork/imdb-big-data-analytics-ml/blob/main/SQL%20queries/data_loading_and_preprocessing.sql)
+
 The SQL queries utilized to perform exploratory data analysis [here](https://github.com/kietngwork/imdb-big-data-analytics-ml/blob/main/SQL%20queries/eda_movie_reviews.sql)
+
 The SQL queries utilized to The SQL queries utilized to clean, organize and prepare data for the ML model can be found [here](https://github.com/kietngwork/imdb-big-data-analytics-ml/blob/main/SQL%20queries/data_preprocessing.sql)
